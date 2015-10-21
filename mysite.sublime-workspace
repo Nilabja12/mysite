@@ -1,0 +1,354 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"accept"
+			],
+			[
+				"in",
+				"input	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "templates/home.html",
+			"settings":
+			{
+				"buffer_size": 720,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/base.html",
+			"settings":
+			{
+				"buffer_size": 1809,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/head.html",
+			"settings":
+			{
+				"buffer_size": 749,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "registration/templates/login.html",
+			"settings":
+			{
+				"buffer_size": 1411,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "registration/templates/forgot.html",
+			"settings":
+			{
+				"buffer_size": 1255,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/neel/venvs/django-mongo-projects/mysite/registration/templates/serror.html",
+		"/home/neel/venvs/django-mongo-projects/mysite/registration/templates/reg_complete.html",
+		"/home/neel/venvs/django-mongo-projects/mysite/registration/templates/login.html",
+		"/home/neel/venvs/django-mongo-projects/mysite/registration/templates/activ_success.html",
+		"/home/neel/venvs/django-mongo-projects/mysite/registration/templates/signup.html",
+		"/home/neel/venvs/django-mongo-projects/mysite/templates/temp.html",
+		"/home/neel/venvs/django-mongo-projects/mysite/static/my_static/css/freeze.css",
+		"/home/neel/venvs/django-mongo-projects/mysite/static/my_static/css/navbar-fixed-top.css",
+		"/home/neel/Desktop/abc_html.html",
+		"/home/neel/neel_project/qedit/templates/reviewdash.html",
+		"/home/neel/venvs/django-mongo-projects/qrvw/templates/home.html",
+		"/home/neel/venvs/django-mongo-projects/qrvw/templates/head.html",
+		"/home/neel/venvs/django-mongo-projects/qrvw/templates/base.html",
+		"/home/neel/venvs/django-mongo-projects/qrvw/registration/templates/login.html",
+		"/home/neel/venvs/django-mongo-projects/qrvw/review/templates/dashboard.html",
+		"/home/neel/venvs/django-mongo-projects/qrvw/review/templates/rvw.html",
+		"/home/neel/venvs/django-mongo-projects/qrvw/static/my_static/css/mystyle.css",
+		"/home/neel/neel_project/qedit/templates/review.html",
+		"/home/neel/venvs/django-mongo-projects/qrvw/templates/navbar.html",
+		"/home/neel/venvs/django-mongo-projects/qrvw/qrvw/templates/dashboard.html",
+		"/home/neel/venvs/django-mongo-projects/qrvw/templates/login.html",
+		"/home/neel/neel_project/qedit/templates/editt.html",
+		"/home/neel/neel_project/qedit/templates/adminqstn.html",
+		"/home/neel/neel_project/qedit/templates/admin.html",
+		"/home/neel/neel_project/qedit/templates/noneditted.html",
+		"/home/neel/neel_project/qedit/templates/dashboard.html",
+		"/home/neel/neel_project/qedit/templates/admindash.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\t",
+			"\\n",
+			"freeze",
+			"wrapp",
+			"\n	"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "templates/home.html",
+					"settings":
+					{
+						"buffer_size": 720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/base.html",
+					"settings":
+					{
+						"buffer_size": 1809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								991,
+								991
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/head.html",
+					"settings":
+					{
+						"buffer_size": 749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "registration/templates/login.html",
+					"settings":
+					{
+						"buffer_size": 1411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1357,
+								1357
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "registration/templates/forgot.html",
+					"settings":
+					{
+						"buffer_size": 1255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								957,
+								957
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true
+}
